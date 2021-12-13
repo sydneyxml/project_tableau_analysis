@@ -12,3 +12,6 @@
 •	Implemented data visualization on significantly showing the result of global suicide rate in different eras is generally increasing and dropping to low, inferring that war and regional divisions are the direct reasons for the increase in suicide rate.
 
 
+***********************************************************************************************************************************************************************************
+
+
